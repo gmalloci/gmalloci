@@ -1,6 +1,16 @@
 ### Hi there 👋
 
+### Research
+
 - 🔭 I’m currently working on ...
+
+### Teaching
+
+### Fun Science
+
+### Contacts
+
+📫 How to reach me: ...
 
 
 <!--
