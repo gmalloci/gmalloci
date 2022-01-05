@@ -8,12 +8,12 @@
 
 - Fisica computazionale della materia
 - Metodologie e Tecnologie didattiche per la fisica
-- [AggiornaMenti] (https://agenda.infn.it/event/19335/)
+- [AggiornaMenti](https://agenda.infn.it/event/19335/)
 
 ### 🌱 Fun Science
 
-- [Laboratorio Scienza] (http://www.laboratorioscienza.it/)
-- [Foucault's Pendulum] (http://nginx.dsf.unica.it/foucault/)
+- [Laboratorio Scienza](http://www.laboratorioscienza.it/)
+- [Foucault's Pendulum](http://nginx.dsf.unica.it/foucault/)
 
 ### 🌱 Contacts
 
