@@ -1,20 +1,29 @@
-### Hi there 👋
+### 🌱 Research
 
-### Research
+- PE3\_4 Electronic properties of materials, surfaces, interfaces, nanostructures
+- PE4\_11 Physical chemistry of biological systems
+- PE6\_12 Scientific computing, simulation and modelling tools
 
-- 🔭 I’m currently working on ...
+### 🌱 Teaching
 
-### Teaching
+- Fisica computazionale della materia
+- Metodologie e Tecnologie didattiche per la fisica
+- [AggiornaMenti] (https://agenda.infn.it/event/19335/)
 
-### Fun Science
+### 🌱 Fun Science
 
-### Contacts
+- [Laboratorio Scienza] (http://www.laboratorioscienza.it/)
+- [Foucault's Pendulum] (http://nginx.dsf.unica.it/foucault/)
 
-📫 How to reach me: ...
+### 🌱 Contacts
 
+📫 Dr. Giuliano MALLOCI
+Department of Physics, University of Cagliari (ITALY)
+Cittadella Universitaria, SP 8 Km 0.7 Monserrato (CA)
 
 <!--
-**gmalloci/gmalloci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gmalloci/gmalloci** is a ✨ _special_ ✨ repository because 
+its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
