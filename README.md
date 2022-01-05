@@ -8,16 +8,15 @@
 
 - Fisica computazionale della materia
 - Metodologie e Tecnologie didattiche per la fisica
-- [AggiornaMenti](https://agenda.infn.it/event/19335/)
 
 ### 🌱 Fun Science
 
 - [Laboratorio Scienza](http://www.laboratorioscienza.it/)
+- [AggiornaMenti](https://agenda.infn.it/event/19335/)
 
 ### 🌱 Contacts
 
 📫 Dr. Giuliano MALLOCI,   
-
 Department of Physics, University of Cagliari (ITALY)
 Cittadella Universitaria, SP 8 Km 0.7 Monserrato (CA)
 
