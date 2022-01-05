@@ -13,11 +13,11 @@
 ### 🌱 Fun Science
 
 - [Laboratorio Scienza](http://www.laboratorioscienza.it/)
-- [Foucault's Pendulum](http://nginx.dsf.unica.it/foucault/)
 
 ### 🌱 Contacts
 
-📫 Dr. Giuliano MALLOCI
+📫 Dr. Giuliano MALLOCI,   
+
 Department of Physics, University of Cagliari (ITALY)
 Cittadella Universitaria, SP 8 Km 0.7 Monserrato (CA)
 
@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [Foucault's Pendulum](http://nginx.dsf.unica.it/foucault/)
 -->
