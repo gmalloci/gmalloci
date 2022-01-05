@@ -4,7 +4,7 @@
 - PE4\_11 Physical chemistry of biological systems
 - PE6\_12 Scientific computing, simulation and modelling tools
 
-### 🌱 Teaching
+### 🌱 Teaching :books:
 
 - Fisica computazionale della materia
 - Metodologie e Tecnologie didattiche per la fisica
@@ -19,7 +19,7 @@
 Dr. Giuliano MALLOCI,   
 Department of Physics, University of Cagliari    
 Cittadella Universitaria, SP 8 Km 0.7  
-I-09042 Monserrato (CA) - ITALY
+I-09042 Monserrato (CA) - ITALY :it:
 
 <!--
 **gmalloci/gmalloci** is a ✨ _special_ ✨ repository because 
