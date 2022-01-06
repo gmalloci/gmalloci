@@ -1,9 +1,11 @@
 ### ⚡ Research
 
+<!--
 - PE3\_4 Electronic properties of materials, surfaces, interfaces, nanostructures
 - PE4\_11 Physical chemistry of biological systems
 - PE6\_12 Scientific computing, simulation and modelling tools
- 
+-->
+
 ### :blue\_book: Teaching
 
 - Fisica computazionale della materia
