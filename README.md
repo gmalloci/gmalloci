@@ -12,7 +12,7 @@
 - PE6\_12 Scientific computing, simulation and modelling tools
 -->
 
-### :blue\_book: Teaching :blackboard:
+### :chart\_with\_upwards\_trend: Teaching 
 
 - Fisica computazionale della materia
 - Metodologie e Tecnologie didattiche per la fisica
