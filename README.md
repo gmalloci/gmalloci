@@ -2,7 +2,7 @@
 
 - Theoretical physics of matter
 - Scientific computing, simulation and modeling tools
-- Physical chemistry of small molecules and biological systems
+- Physical chemistry of molecules and biological systems
 - Electronic properties of nanostructures, interfaces, materials
 - Data collection and sharing for molecular design and applied physics 
 
