@@ -24,7 +24,7 @@
 
 ### 📫 Contacts
 
-[Giuliano MALLOCI](https://www.unica.it/unica/page/it/giuliano_malloci),   
+[Giuliano MALLOCI](https://www.unica.it/unica/page/it/giuliano_malloci)   
 Department of Physics, University of Cagliari    
 Cittadella Universitaria, SP 8 Km 0.7  
 I-09042 Monserrato (CA) - ITALY :it:
