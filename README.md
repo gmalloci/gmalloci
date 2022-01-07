@@ -1,5 +1,11 @@
 ### ⚡ Research
 
+- Theoretical physics of matter
+- Scientific computing, simulation and modeling tools
+- Physical chemistry of small molecules and biological systems
+- Electronic properties of nanostructures, interfaces, materials
+- Data collection and sharing for molecular design and applied physics 
+
 <!--
 - PE3\_4 Electronic properties of materials, surfaces, interfaces, nanostructures
 - PE4\_11 Physical chemistry of biological systems
@@ -18,7 +24,7 @@
 
 ### 📫 Contacts
 
-[Dr. Giuliano MALLOCI](https://www.unica.it/unica/page/it/giuliano_malloci),   
+[Giuliano MALLOCI](https://www.unica.it/unica/page/it/giuliano_malloci),   
 Department of Physics, University of Cagliari    
 Cittadella Universitaria, SP 8 Km 0.7  
 I-09042 Monserrato (CA) - ITALY :it:
