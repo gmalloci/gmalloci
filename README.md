@@ -1,11 +1,10 @@
 ### ⚡ Research
 
-- Theoretical physics of matter
+- Theoretical physics of matter and applications
 - Scientific computing, simulation and modeling tools
 - Physical chemistry of molecules and biological systems
 - Electronic properties of nanostructures, interfaces, materials
 - Data collection and sharing for molecular design and applied physics 
-- PIPPO
 
 <!--
 - PE3\_4 Electronic properties of materials, surfaces, interfaces, nanostructures
@@ -15,7 +14,8 @@
 
 ### :chart\_with\_upwards\_trend: Teaching 
 
-- Fisica computazionale della materia
+- Fisica generale
+- Laboratorio di fisica computazionale della materia
 - Metodologie e Tecnologie didattiche per la fisica
 
 ### 😄 Fun Science
