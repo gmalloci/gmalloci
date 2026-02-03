@@ -3,7 +3,6 @@
 - Theoretical physics of matter and applications
 - Scientific computing, simulation and modeling tools
 - Physical chemistry of molecules and biological systems
-- Electronic properties of nanostructures, interfaces, materials
 - Data collection and sharing for molecular design and applied physics 
 
 <!--
@@ -21,6 +20,7 @@
 ### 😄 Fun Science
 
 - [Laboratorio Scienza](http://www.laboratorioscienza.it/)
+- [Foucault's Pendulum](http://nginx.dsf.unica.it/foucault/)
 - [AggiornaMenti](https://agenda.infn.it/event/19335/)
 
 ### 📫 Contacts
@@ -32,5 +32,5 @@ I-09042 Monserrato (CA) - ITALY :it:
 
 <!--
 **gmalloci/gmalloci** is a ✨ _special_ ✨ repository 
-- [Foucault's Pendulum](http://nginx.dsf.unica.it/foucault/)
+- Electronic properties of nanostructures, interfaces, materials
 -->
