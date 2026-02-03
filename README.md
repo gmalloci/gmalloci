@@ -5,12 +5,6 @@
 - Physical chemistry of molecules and biological systems
 - Data collection and sharing for molecular design and applied physics 
 
-<!--
-- PE3\_4 Electronic properties of materials, surfaces, interfaces, nanostructures
-- PE4\_11 Physical chemistry of biological systems
-- PE6\_12 Scientific computing, simulation and modelling tools
--->
-
 ### :chart\_with\_upwards\_trend: Teaching 
 
 - Fisica generale
